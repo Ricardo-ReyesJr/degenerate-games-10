@@ -1,9 +1,9 @@
 import React from "react";
 
-export default function Index() {
+export default function Projects() {
     return(
         <main>
-        <h1>Hero Index Section</h1>
+            <h1>Projects Section</h1>
         </main>
     );
 }

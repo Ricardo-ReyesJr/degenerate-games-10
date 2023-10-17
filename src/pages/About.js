@@ -1,9 +1,9 @@
 import React from "react";
 
-export default function Index() {
+export default function About() {
     return(
         <main>
-        <h1>Hero Index Section</h1>
+            <h1>About Section</h1>
         </main>
     );
 }
